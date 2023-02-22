@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Girish-Deshmukh
-- 👀 I’m interested in Python , automation , cloud services , and DevOps
+- 👀 I’m interested in java, Python , automation , cloud services , and DevOps
 
 
 <!---
